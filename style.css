@@ -1,0 +1,22 @@
+body{
+    background-color: black;
+    }
+    html,body{
+    height:100%;
+    }
+    .container {
+        height: 100%;
+    }
+    #time,#day{
+    font-weight:bold;
+    color:white;
+    }
+    #time{
+    font-size:100px;
+    }
+    #day{
+    font-size:25px;
+    }
+    #delList{
+        cursor:pointer;
+        }
